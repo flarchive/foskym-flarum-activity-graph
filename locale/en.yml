@@ -1,0 +1,11 @@
+foskym-activity-graph:
+  admin:
+    settings:
+      query-others-activity-graph: Query Others' Activity Graph
+
+  forum:
+    label:
+      activity_graph: Activity Graph
+      total_times: Total {total} times in this year
+      unit: times
+      name_map: en # Lang of label. See more on https://echarts.apache.org/en/option.html#calendar.dayLabel.nameMap
