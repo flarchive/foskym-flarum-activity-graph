@@ -1,0 +1,59 @@
+foskym-activity-graph:
+  admin:
+    settings:
+      count_comments: 统计回帖次数
+      count_discussions: 统计讨论发起次数
+      count_likes: 统计点赞次数
+      count_custom_levels_exp_logs: 经验变动次数 (需要安装 foskym/flarum-custom-levels)
+      count_invite_user_invites: 邀请用户次数 (需要安装 xypp/flarum-invite-user)
+      count_store_purchases: 商店购买次数 (需要安装 xypp/store)
+      count_polls_create_polls: 创建投票次数 (需要安装 fof/polls)
+      count_polls_votes: 投票次数 (需要安装 fof/polls)
+      count_username_requests_username: 用户名修改请求次数 (需要安装 fof/username-requests)
+      count_username_requests_nickname: 昵称修改请求次数 (需要安装 fof/username-requests 和 flarum-nicknames)
+      count_best_answer_marked: 被标记最佳答案次数 (需要安装 fof/best-answer)
+      count_badges_assigned: 被授予徽章次数 (需要安装 v17development/flarum-user-badges)
+      count_achievements_achieved: 获得成就次数 (需要安装 malago/achievements)
+      count_quest_done: 完成任务次数 (需要安装 xypp/forum-quests)
+
+      tooltip_position: 提示框位置
+      tooltip_position_options:
+        top: 顶部
+        right: 右侧
+        bottom: 底部
+        left: 左侧
+
+      times_display_format: 次数显示格式
+      times_display_format_help: 用于显示活动图表中的次数，例如：“次”，“[count] 次”
+
+      from_year: 开始年份
+      from_year_help: 活动图表的开始年份
+
+    permissons:
+      query-others-activity-graph: 查询其他用户活动图表
+
+  forum:
+    label:
+      activity_graph: 活动图表
+      total_times: 这一年共 {total}
+      name_map: cn # 标签语言. 可查询 https://echarts.apache.org/zh/option.html#calendar.dayLabel.nameMap
+
+      categories:
+        comments: 回帖
+        discussions: 发起讨论
+        likes: 点赞
+        custom_levels_exp_logs: 经验变动
+        invite_user_invites: 邀请用户
+        store_purchases: 商店购买
+        polls_create_polls: 创建投票
+        polls_votes: 投票
+        username_requests_username: 用户名修改请求
+        username_requests_nickname: 昵称修改请求
+        best_answer_marked: 最佳答案
+        badges_assigned: 徽章授予
+        achievements_achieved: 成就达成
+        quest_done: 任务完成
+
+  lib:
+    defaults:
+      times_display_format: [count] 次
