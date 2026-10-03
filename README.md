@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of foskym/flarum-activity-graph.** Not for installation: use [Packagist](https://packagist.org/packages/foskym/flarum-activity-graph) or the [upstream repository](https://github.com/FoskyM/flarum-activity-graph).
 
-**0** versions archived · Latest: [`v1.2.1`](https://github.com/flarchive/foskym-flarum-activity-graph/tree/archive/v1.2.1) · License: `MIT` · Flarum: `^1.2.0`
+**7** versions archived · Latest: [`v1.2.1`](https://github.com/flarchive/foskym-flarum-activity-graph/tree/archive/v1.2.1) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2024-02-29 | `^1.2.0` | [Browse](https://github.com/flarchive/foskym-flarum-activity-graph/tree/archive/v0.1.0) |
+| `v0.2.0` | 2024-06-27 | `^1.2.0` | [Browse](https://github.com/flarchive/foskym-flarum-activity-graph/tree/archive/v0.2.0) |
+| `v0.3.0` | 2024-08-28 | `^1.2.0` | [Browse](https://github.com/flarchive/foskym-flarum-activity-graph/tree/archive/v0.3.0) |
+| `v1.0.0` | 2024-08-28 | `^1.2.0` | [Browse](https://github.com/flarchive/foskym-flarum-activity-graph/tree/archive/v1.0.0) |
+| `v1.1.0` | 2024-08-28 | `^1.2.0` | [Browse](https://github.com/flarchive/foskym-flarum-activity-graph/tree/archive/v1.1.0) |
+| `v1.2.0` | 2024-09-01 | `^1.2.0` | [Browse](https://github.com/flarchive/foskym-flarum-activity-graph/tree/archive/v1.2.0) |
+| `v1.2.1` | 2024-09-03 | `^1.2.0` | [Browse](https://github.com/flarchive/foskym-flarum-activity-graph/tree/archive/v1.2.1) |
 
 Catalog entry: [packages/foskym-flarum-activity-graph.json](https://github.com/flarchive/archive-index/blob/main/packages/foskym-flarum-activity-graph.json)
 
